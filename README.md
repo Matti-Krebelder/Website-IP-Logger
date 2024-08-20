@@ -17,7 +17,7 @@ The Logger discreetly retrieves and forwards essential visitor data from your we
  into your Code and change your Discord-Webhook-URL to your webhook URL
    
 ## Screenshots
-![App Screenshot](https://skynethub.net/webh.png)
+![App Screenshot](http://skynethub.net/webh.png)
 
 ## Support 📧
 
